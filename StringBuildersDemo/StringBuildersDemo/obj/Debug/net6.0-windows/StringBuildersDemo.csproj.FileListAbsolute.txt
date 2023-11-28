@@ -1,0 +1,16 @@
+C:\Users\reald\source\repos\StringBuildersDemo\StringBuildersDemo\bin\Debug\net6.0-windows\StringBuildersDemo.exe
+C:\Users\reald\source\repos\StringBuildersDemo\StringBuildersDemo\bin\Debug\net6.0-windows\StringBuildersDemo.deps.json
+C:\Users\reald\source\repos\StringBuildersDemo\StringBuildersDemo\bin\Debug\net6.0-windows\StringBuildersDemo.runtimeconfig.json
+C:\Users\reald\source\repos\StringBuildersDemo\StringBuildersDemo\bin\Debug\net6.0-windows\StringBuildersDemo.dll
+C:\Users\reald\source\repos\StringBuildersDemo\StringBuildersDemo\bin\Debug\net6.0-windows\StringBuildersDemo.pdb
+C:\Users\reald\source\repos\StringBuildersDemo\StringBuildersDemo\obj\Debug\net6.0-windows\StringBuildersDemo.Form1.resources
+C:\Users\reald\source\repos\StringBuildersDemo\StringBuildersDemo\obj\Debug\net6.0-windows\StringBuildersDemo.csproj.GenerateResource.cache
+C:\Users\reald\source\repos\StringBuildersDemo\StringBuildersDemo\obj\Debug\net6.0-windows\StringBuildersDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reald\source\repos\StringBuildersDemo\StringBuildersDemo\obj\Debug\net6.0-windows\StringBuildersDemo.AssemblyInfoInputs.cache
+C:\Users\reald\source\repos\StringBuildersDemo\StringBuildersDemo\obj\Debug\net6.0-windows\StringBuildersDemo.AssemblyInfo.cs
+C:\Users\reald\source\repos\StringBuildersDemo\StringBuildersDemo\obj\Debug\net6.0-windows\StringBuildersDemo.csproj.CoreCompileInputs.cache
+C:\Users\reald\source\repos\StringBuildersDemo\StringBuildersDemo\obj\Debug\net6.0-windows\StringBuildersDemo.dll
+C:\Users\reald\source\repos\StringBuildersDemo\StringBuildersDemo\obj\Debug\net6.0-windows\refint\StringBuildersDemo.dll
+C:\Users\reald\source\repos\StringBuildersDemo\StringBuildersDemo\obj\Debug\net6.0-windows\StringBuildersDemo.pdb
+C:\Users\reald\source\repos\StringBuildersDemo\StringBuildersDemo\obj\Debug\net6.0-windows\StringBuildersDemo.genruntimeconfig.cache
+C:\Users\reald\source\repos\StringBuildersDemo\StringBuildersDemo\obj\Debug\net6.0-windows\ref\StringBuildersDemo.dll
